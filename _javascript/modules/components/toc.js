@@ -8,6 +8,8 @@ export function toc() {
       headingSelector: 'h2, h3, h4',
       orderedList: false,
       scrollSmooth: false
+      // headingsOffset: 400,
+      // scrollSmoothOffset: -400
     });
   }
 }
